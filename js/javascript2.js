@@ -2,7 +2,7 @@
 -> Os operadores Javascript são usados para atribuir valores, comparar valores,
 executar operações aritméticas e muito mais.
 
-São Sinais que usamos: + - * / = ++ -= && || etc...
+São Sinais que usamos: + - * / = ++ - = && || etc...
 
 São separados em 6 "categorias":
 

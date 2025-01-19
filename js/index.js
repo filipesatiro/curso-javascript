@@ -15,6 +15,5 @@ const x = 10; // aqui é 10
 {
     const x = 2; //aqui é 2
 }
-const x = 5;
 //aqui também é 10
 document.getElementById("texto").innerHTML = x;
