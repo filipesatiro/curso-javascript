@@ -14,4 +14,4 @@ Aqui você vai encontrar meus primeiros passos, tropeços e conquistas no mundo 
 - Organização dos arquivos:  
   - `paginas-html/index.html`: Minha página principal, onde tudo acontece.
   - `paginas-javascript/index.js`: Meu script JS que faz a mágica acontecer.
-
+- Declarações em Javascript: Descobri que posso criar "caixinhas mágicas" para guardar valores usando `var`, `let` e `const`.  
