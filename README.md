@@ -32,4 +32,39 @@ Aqui você vai encontrar meus primeiros passos, tropeços e conquistas no mundo 
 
 - Sintaxe do Javascript:  
   Estudei como escrever comandos corretamente, usando pontos e vírgulas, chaves para blocos de código e a importância de seguir a estrutura da linguagem para evitar erros.  
-  Também aprendi que Javascript é **case sensitive** (letras maiúsculas e minúsculas fazem diferença!).
+  Também aprendi que Javascript é case sensitive (letras maiúsculas e minúsculas fazem diferença!).
+
+  Operadores Aritméticos:  
+  Para fazer contas matemáticas como um(a) verdadeiro(a) calculista!
+  - `+` (adição): soma valores.  
+  - `-` (subtração): tira valores.  
+  - `*` (multiplicação): multiplica tudo!  
+  - `/` (divisão): divide igual pizza.  
+  - `%` (módulo): pega o resto da divisão (ótimo para saber se um número é par ou ímpar).  
+  - `**` (exponenciação): potência, tipo 2 elevado a 3.
+
+- Operadores de Atribuição:  
+  Para guardar valores nas variáveis de forma rápida e prática!
+  - `=` (atribuição simples): coloca um valor na variável.
+  - `+=`, `-=`, `*=`, `/=`, `%=`: faz a operação e já atualiza o valor.
+
+- Operadores de Comparação:  
+  Para comparar valores e descobrir se são iguais, diferentes, maiores ou menores.
+  - `==` (igualdade de valor)
+  - `===` (igualdade de valor e tipo)
+   - `!=` (diferente)
+  - `!==` (diferente valor ou tipo)
+  - `>` (maior que)
+  - `<` (menor que)
+  - `>=` (maior ou igual)
+  - `<=` (menor ou igual)
+
+- Operadores Lógicos:  
+  Para criar condições e tomar decisões inteligentes!
+  - `&&` (E): só é verdadeiro se tudo for verdadeiro.
+  - `||` (OU): basta um ser verdadeiro.
+  - `!` (NÃO): inverte o valor lógico.
+
+- Operador de Concatenação:  
+  - `+` também serve para juntar textos (strings)!  
+    Exemplo: `"Olá, " + "mundo!"` vira `"Olá, mundo**
