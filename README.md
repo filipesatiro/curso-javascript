@@ -76,3 +76,18 @@ Sabe aquele botão secreto que faz algo incrível quando você aperta? Função 
 
 Com funções, posso repetir tarefas, organizar o código e deixar tudo mais inteligente.  
 É tipo criar meus próprios comandos secretos! 😎
+
+### O que aprendi no arquivo `funcoes.js`:
+
+- Funções são como mini-fábricas**: Você dá uma entrada (parâmetros), ela processa e te devolve uma saída (retorno).
+- Podem ser usadas para qualquer tarefa: Desde somar números até converter temperaturas ou mostrar alertas na tela!
+
+## 🧰 Pasta `objetos`: O Baú dos Tesouros do Javascript!
+
+Dentro da pasta `paginas-javascript/objetos.js` eu mergulhei no universo dos objetos!  
+Aqui, aprendi que objetos são como baús mágicos onde posso guardar várias informações diferentes sobre uma coisa só — e ainda colocar poderes especiai (métodos) dentro deles!
+
+### O que tem nesse baú?
+
+- Propriedades: São os tesouros guardados no objeto, como marca, modelo, ano e placa de um carro.
+- **Métodos**: São os poderes especiais do objeto, como buzinar ou mostrar informações completas.
