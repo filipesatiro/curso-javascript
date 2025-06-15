@@ -67,4 +67,12 @@ Aqui você vai encontrar meus primeiros passos, tropeços e conquistas no mundo 
 
 - Operador de Concatenação:  
   - `+` também serve para juntar textos (strings)!  
-    Exemplo: `"Olá, " + "mundo!"` vira `"Olá, mundo**
+    Exemplo: `"Olá, " + "mundo!"` vira `"Olá, mundo
+
+    ## 🚦 Funções em Javascript: O botão mágico do código!
+
+Chegou a hora de aprender sobre funções!  
+Sabe aquele botão secreto que faz algo incrível quando você aperta? Função é isso no Javascript: um bloco de código que só roda quando você chama!
+
+Com funções, posso repetir tarefas, organizar o código e deixar tudo mais inteligente.  
+É tipo criar meus próprios comandos secretos! 😎
