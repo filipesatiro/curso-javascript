@@ -122,3 +122,20 @@ Quando você clica, digita, passa o mouse ou muda algo, um evento é disparado �
 Com eventos, minha página ficou muito mais divertida e interativa!  
 Agora, cada ação do usuário pode virar uma surpresa no site. 😄✨
 
+## 🗂️ Pasta `arrays`: Listas mágicas para guardar de tudo!
+
+Chegou a vez dos arrays!  
+Na pasta `paginas-javascript/arrays.js` aprendi como criar listas superpoderosas para guardar vários valores em uma única variável.
+
+### O que são arrays?
+
+Arrays são como caixas organizadas por ordem, onde cada item tem seu lugar (posição).  
+Diferente dos objetos, que usam nomes para acessar valores, nos arrays você usa números (índices), começando do zero.
+  
+### Resumindo:
+
+Arrays são listas mágicas que deixam o código muito mais organizado e prático!  
+Com eles, posso guardar, acessar e manipular vários valores rapidinho, só usando a posição de cada item.  
+É como ter uma mochila com vários bolsos numerados para guardar tudo o que eu quiser! 🎒✨
+
+
