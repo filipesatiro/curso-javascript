@@ -189,4 +189,26 @@ Na pasta `paginas-javascript/arrays-2.js` mergulhei ainda mais fundo no universo
 Agora, além de criar listas, sei como juntar, cortar, ordenar, inverter, filtrar e até buscar o maior ou menor valor!  
 Com esses truques, meus arrays ficaram muito mais poderosos e versáteis — prontos para qualquer desafio do Javascript! 🪄🗂️
 
+## 🔀 Pasta `if-e-else`: Tomando decisões no código!
+
+Na pasta `paginas-javascript/if-e-else.js` aprendi a deixar o Javascript mais inteligente, capaz de tomar decisões sozinho usando as estruturas if e else!
+
+### O que são if e else?
+
+São como placas de trânsito para o código:  
+- if: "Se isso acontecer, faça tal coisa..."
+- else: "Se não, faça outra coisa!"
+
+E ainda tem o else if para criar vários caminhos diferentes.
+
+### O que pratiquei:
+
+- Verifiquei se um interruptor está "on" ou "off" para acender ou apagar uma lâmpada virtual.
+- Usei a hora do sistema para dar "Bom dia", "Boa tarde" ou "Boa noite" automaticamente.
+- Criei uma função que checa se o campo de nome está vazio e mostra uma mensagem colorida na tela:
+
+### Resumindo:
+
+Com if e else, meu código agora pode escolher o que fazer em cada situação, deixando tudo mais dinâmico e interativo!  
+É como dar cérebro para o Javascript decidir o que mostrar ou executar. 🧠🚦
 
