@@ -91,3 +91,34 @@ Aqui, aprendi que objetos são como baús mágicos onde posso guardar várias in
 
 - Propriedades: São os tesouros guardados no objeto, como marca, modelo, ano e placa de um carro.
 - **Métodos**: São os poderes especiais do objeto, como buzinar ou mostrar informações completas.
+## 🎉 Pasta `eventos`: Deixando a página super interativa!
+
+Agora chegou a parte divertida: eventos!  
+Na pasta `paginas-javascript/eventos.js` aprendi como tornar a página viva, reagindo a tudo que o usuário faz: clicar, passar o mouse, digitar, mudar um campo e muito mais.
+
+### O que são eventos?
+
+Eventos são ações que acontecem na página, geralmente causadas pelo usuário.  
+Quando você clica, digita, passa o mouse ou muda algo, um evento é disparado — e o Javascript pode responder a isso!
+
+### Exemplos de eventos que estudei:
+
+- `onclick`: Quando você clica em algo.
+- `ondblclick`: Clique duplo.
+- `onmouseover`: Quando o mouse passa por cima de um elemento.
+- `onmouseout`: Quando o mouse sai de cima do elemento.
+- `onchange`: Quando um campo muda de valor.
+- `onkeydown` / `onkeyup`: Quando uma tecla é pressionada ou solta.
+- `onload`: Quando a página termina de carregar.
+
+### O que fiz no arquivo?
+
+- Mudei a cor do fundo da página ao clicar.
+- Troquei a cor de uma div para vermelho ou azul ao passar o mouse.
+- Detectei mudanças em campos de texto e teclas pressionadas, mostrando tudo no console.
+
+### Resumindo:
+
+Com eventos, minha página ficou muito mais divertida e interativa!  
+Agora, cada ação do usuário pode virar uma surpresa no site. 😄✨
+
