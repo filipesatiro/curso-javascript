@@ -144,7 +144,7 @@ Na pasta `paginas-javascript/arrays-2.js` mergulhei ainda mais fundo no universo
 
 ### O que explorei por aqui?
 
-- **Juntar várias listas em uma só**  
+- Juntar várias listas em uma só 
   Usei o `.concat()` para criar uma super lista com vários arrays:
   ```javascript
   const superLista = lista1.concat(lista2, lista3);
