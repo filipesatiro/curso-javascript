@@ -138,4 +138,55 @@ Arrays são listas mágicas que deixam o código muito mais organizado e prátic
 Com eles, posso guardar, acessar e manipular vários valores rapidinho, só usando a posição de cada item.  
 É como ter uma mochila com vários bolsos numerados para guardar tudo o que eu quiser! 🎒✨
 
+## 🧙‍♂️ Pasta `arrays-2`: Truques avançados com listas!
+
+Na pasta `paginas-javascript/arrays-2.js` mergulhei ainda mais fundo no universo dos arrays e aprendi vários truques mágicos para manipular listas de formas superpoderosas!
+
+### O que explorei por aqui?
+
+- **Juntar várias listas em uma só**  
+  Usei o `.concat()` para criar uma super lista com vários arrays:
+  ```javascript
+  const superLista = lista1.concat(lista2, lista3);
+  
+
+- Adicionar e remover itens do começo ou fim 
+  - `.push()`: adiciona no final  
+  - `.pop()`: remove do final  
+  - `.unshift()`: adiciona no começo  
+  - `.shift()`: remove do começo
+
+- Adicionar itens em qualquer posição  
+  Com `.splice()`, posso inserir ou remover itens em qualquer lugar da lista:
+  ```javascript
+  pessoa.splice(1, 0, "item adicionado1", "item adicionado2");
+  ```
+
+- Selecionar uma parte da lista  
+  Com `.slice()`, pego só um pedaço da lista:
+  ```javascript
+  const craques = jogadores.slice(2, 7);
+  ```
+
+- Ordenar e inverter listas  
+  - `.sort()`: coloca em ordem alfabética ou crescente  
+  - `.reverse()`: inverte a ordem da lista
+
+- Filtrar valores com funções 
+  Usei `.filter()` para criar uma nova lista só com números maiores que 20:
+  ```javascript
+  const maior20 = numeros.filter(filtragem);
+  function filtragem(value) {
+      return value > 20;
+  }
+  
+
+- Descobrir o maior ou menor número  
+  Com `Math.max.apply(null, array)` e `Math.min.apply(null, array)` encontro o maior e o menor valor de um array rapidinho!
+
+### Resumindo:
+
+Agora, além de criar listas, sei como juntar, cortar, ordenar, inverter, filtrar e até buscar o maior ou menor valor!  
+Com esses truques, meus arrays ficaram muito mais poderosos e versáteis — prontos para qualquer desafio do Javascript! 🪄🗂️
+
 
