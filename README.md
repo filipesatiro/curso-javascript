@@ -267,3 +267,24 @@ Na pasta `paginas-javascript/setimeout-setinterval.js` aprendi a manipular o tem
 
 Com esses comandos, posso criar alarmes, cronômetros, animações e tudo que depende de tempo no Javascript!  
 É como ser o guardião do tempo dentro do código, controlando cada segundo do que acontece na página! ⏳🕹️
+
+## 🏗️ Pasta `classes`: Criando meus próprios "moldes" no Javascript!
+
+Na pasta `paginas-javascript/classes.js` mergulhei no universo das classes, uma forma moderna e poderosa de criar objetos com o mesmo formato, mas com valores diferentes!
+
+### O que são classes?
+
+Pense nas classes como moldes de fábrica:  
+Você define como será o objeto (quais propriedades e métodos ele terá) e depois pode criar quantos quiser, cada um com suas próprias características!
+
+### O que aprendi:
+
+- Como declarar uma classe usando a palavra-chave `class`.
+- Como criar um construtor para definir as propriedades iniciais.
+- Como adicionar métodos que todos os objetos criados a partir da classe podem usar.
+- Como criar vários objetos diferentes a partir do mesmo molde.
+
+### Resumindo:
+
+Com classes, posso criar quantos objetos quiser, todos seguindo o mesmo padrão, mas cada um com sua própria identidade!  
+É como ser o engenheiro-chefe de uma fábrica de ideias no Javascript! 🏭🚗
