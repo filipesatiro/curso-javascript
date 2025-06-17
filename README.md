@@ -212,3 +212,19 @@ E ainda tem o else if para criar vários caminhos diferentes.
 Com if e else, meu código agora pode escolher o que fazer em cada situação, deixando tudo mais dinâmico e interativo!  
 É como dar cérebro para o Javascript decidir o que mostrar ou executar. 🧠🚦
 
+## 🎲 Pasta `switch`: Escolhendo caminhos como um mestre!
+
+Na pasta `paginas-javascript/switch.js` aprendi a usar o **switch**, uma estrutura super prática para tomar decisões quando há várias possibilidades diferentes!
+
+### O que é o switch?
+
+Pense no switch como um cruzamento com várias saídas:  
+Dependendo do valor, o código segue por um caminho diferente.  
+Se não encontrar nenhum caminho certo, ele pega a saída padrão (default)!
+
+### Resumindo:
+
+Com o switch, posso criar menus, verificações e respostas para várias situações diferentes, tudo de forma organizada e fácil de entender!  
+É como dar ao Javascript um mapa com várias rotas possíveis — e ele sempre sabe para onde ir! 🗺️🚦
+
+---
