@@ -247,4 +247,23 @@ São comandos que fazem o código executar uma ação várias vezes, de forma au
 Com os laços de repetição, posso automatizar tarefas, criar listas, preencher tabelas e muito mais, tudo de forma rápida e eficiente!  
 É como ter um exército de mini-robôs fazendo trabalho repetitivo pra mim! 🤖🔄
 
+## ⏰ Pasta `setimeout-setinterval`: Controlando o tempo como um mestre do relógio!
 
+Na pasta `paginas-javascript/setimeout-setinterval.js` aprendi a manipular o tempo no Javascript, criando ações que acontecem depois de um intervalo ou que se repetem sozinhas!
+
+### O que são setTimeout e setInterval?
+
+- setTimeout: Executa uma função apenas uma vez após um tempo determinado (em milissegundos).
+- setInterval: Executa uma função várias vezes, repetidamente, a cada intervalo de tempo definido.
+
+### O que pratiquei:
+
+- Criei um cronômetro que conta o tempo na tela e avisa quando o tempo acaba.
+- Usei `setTimeout` para executar uma ação depois de alguns segundos.
+- Usei `setInterval` para repetir uma ação a cada segundo, como um cronômetro regressivo.
+- Aprendi a parar a contagem usando `clearInterval` (ou `clearTimeout`).
+
+### Resumindo:
+
+Com esses comandos, posso criar alarmes, cronômetros, animações e tudo que depende de tempo no Javascript!  
+É como ser o guardião do tempo dentro do código, controlando cada segundo do que acontece na página! ⏳🕹️
