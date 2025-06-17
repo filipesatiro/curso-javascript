@@ -227,4 +227,24 @@ Se não encontrar nenhum caminho certo, ele pega a saída padrão (default)!
 Com o switch, posso criar menus, verificações e respostas para várias situações diferentes, tudo de forma organizada e fácil de entender!  
 É como dar ao Javascript um mapa com várias rotas possíveis — e ele sempre sabe para onde ir! 🗺️🚦
 
----
+## 🔁 Pasta `lacos-de-repeticao`: Repetindo como um robô incansável!
+
+Na pasta `paginas-javascript/lacos-de-repeticao.js` mergulhei no mundo dos **laços de repetição** (loops), aprendendo a fazer o Javascript repetir tarefas rapidinho, sem cansar!
+
+### O que são laços de repetição?
+
+São comandos que fazem o código executar uma ação várias vezes, de forma automática.  
+É como pedir para o computador contar, listar ou repetir algo até acabar!
+
+### O que pratiquei:
+
+- Usei o for para contar de 0 até 10.000 (sim, o computador faz isso em segundos!).
+- Criei uma lista de anos, de 1900 até o ano atual, para preencher um `<select>` automaticamente.
+- Percorri um array de carros e mostrei todos os modelos na tela, um por um.
+
+### Resumindo:
+
+Com os laços de repetição, posso automatizar tarefas, criar listas, preencher tabelas e muito mais, tudo de forma rápida e eficiente!  
+É como ter um exército de mini-robôs fazendo trabalho repetitivo pra mim! 🤖🔄
+
+
