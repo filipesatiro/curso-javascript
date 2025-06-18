@@ -288,3 +288,23 @@ Você define como será o objeto (quais propriedades e métodos ele terá) e dep
 
 Com classes, posso criar quantos objetos quiser, todos seguindo o mesmo padrão, mas cada um com sua própria identidade!  
 É como ser o engenheiro-chefe de uma fábrica de ideias no Javascript! 🏭🚗
+
+## 📅 Pasta `manipulacao-de-datas`: Dominando o tempo no Javascript!
+
+Na pasta `paginas-javascript/manipulacao-de-datas.js` aprendi a trabalhar com datas e horários, transformando o Javascript em uma verdadeira máquina do tempo!
+
+### O que explorei nesse estudo?
+
+- Peguei a data e hora atual com `new Date()`.
+- Descobri o ano, mês, dia, hora, minutos, segundos e milissegundos separadamente.
+- Mostrei o mês e o dia da semana em formato escrito, usando arrays personalizados.
+- Formatei a data no padrão brasileiro (DD/MM/AAAA).
+- Criei uma função para adicionar zero à esquerda em números menores que 10 (ficou chique!).
+- Comparei datas para saber se uma conta está vencida ou não.
+- Calculei a diferença entre duas datas em dias (ótimo para contagem regressiva ou prazos!).
+
+### Resumindo:
+
+Agora consigo manipular datas, comparar prazos, criar contadores e formatar tudo do jeito que eu quiser!  
+É como ter um calendário e um relógio digital dentro do meu código, pronto para qualquer desafio temporal! ⏳📆
+
