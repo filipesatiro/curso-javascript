@@ -308,3 +308,17 @@ Na pasta `paginas-javascript/manipulacao-de-datas.js` aprendi a trabalhar com da
 Agora consigo manipular datas, comparar prazos, criar contadores e formatar tudo do jeito que eu quiser!  
 É como ter um calendário e um relógio digital dentro do meu código, pronto para qualquer desafio temporal! ⏳📆
 
+## 🗃️ Pasta `jason.js`: Decifrando e transmitindo dados com JSON!
+
+Na pasta `paginas-javascript/jason.js` mergulhei no universo do **JSON** (JavaScript Object Notation), a linguagem secreta que permite sistemas diferentes conversarem entre si de forma simples e eficiente!
+
+### O que é JSON?
+
+- É uma forma de transformar objetos em texto e texto em objetos.
+- Super útil para enviar e receber dados entre sistemas, APIs e aplicações web.
+- Praticamente toda linguagem de programação entende JSON!
+
+### Resumindo:
+
+Agora sei como transformar objetos em texto para enviar para outros sistemas, e como receber textos e transformar de volta em objetos para usar no meu código!  
+Com JSON, meu Javascript ficou pronto para conversar com o mundo inteiro — é como aprender uma língua universal dos dados!
